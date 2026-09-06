@@ -1,9 +1,32 @@
-![Screenshot_20240430_014513](https://github.com/Anuragroyan/Quiz_app/assets/38952781/10695eba-656c-409b-bb26-9bf5a49c092e)
-![Screenshot_20240430_014536](https://github.com/Anuragroyan/Quiz_app/assets/38952781/948b360c-e3ea-4a18-9ed9-acd3d1c5bc14)
-![Screenshot_20240430_014549](https://github.com/Anuragroyan/Quiz_app/assets/38952781/9fbca37f-6c4f-4562-9f79-fab31011d099)
-![Screenshot_20240430_014621](https://github.com/Anuragroyan/Quiz_app/assets/38952781/a46cd054-411b-4c44-a0d5-5503ed5ed1f3)
-![Screenshot_20240430_014648](https://github.com/Anuragroyan/Quiz_app/assets/38952781/188ea8d1-b9a3-4c7e-9921-822b830de1a3)
-![Screenshot_20240430_164007](https://github.com/Anuragroyan/Quiz_app/assets/38952781/8901bd45-6c16-4297-bd54-66bbd6eb4ab6)
-![Screenshot_20240430_164023](https://github.com/Anuragroyan/Quiz_app/assets/38952781/5107a631-ed3f-4bf7-b31e-3460e83215f0)
-![Screenshot_20240430_164112](https://github.com/Anuragroyan/Quiz_app/assets/38952781/97ee23ad-fc56-461d-a80c-de5bd457a878)
-![Screenshot_20240430_164119](https://github.com/Anuragroyan/Quiz_app/assets/38952781/e63b3ecd-9728-4291-9ae6-39bba4ed1eba)
+🧠 Quiz App
+Quiz App is a Kotlin-based Android application designed to provide an interactive quiz experience using Jetpack Compose for the user interface. The application loads quiz questions and answer options from a local JSON file, keeping the quiz content separate from the UI and application logic.
+
+Users can go through multiple-choice questions, select their answers, navigate through the quiz, and view their results after completing the questions. The project demonstrates modern Android development concepts such as Jetpack Compose UI, JSON parsing, state management, user interaction, and dynamic content rendering.
+
+✨ Features
+* 🧠 Interactive Quiz – Answer multiple-choice questions through an interactive interface.
+* 📄 JSON-Based Questions – Load quiz questions and options from a local JSON file.
+* 🎯 Answer Selection – Select an answer for each question.
+* ➡️ Question Navigation – Move through the quiz questions.
+* 📊 Score Tracking – Track correct answers throughout the quiz.
+* 🏆 Result Display – Display the final quiz result after completion.
+* 🎨 Jetpack Compose UI – Build the interface using modern Compose components.
+* 🔄 Dynamic UI Updates – Update the interface based on the current quiz state.
+* 📦 Local Data Source – Manage quiz content through a JSON file.
+* 📱 User-Friendly Design – Provide a simple and engaging quiz experience.
+
+🔄 Application Flow
+<img width="1024" height="1536" alt="image7" src="https://github.com/user-attachments/assets/6010f4f2-d607-482c-bd7f-da2eeba8a056" />
+
+
+🛠️ Tech Stack
+* Kotlin
+* Android
+* Jetpack Compose
+* Material 3
+* JSON
+* State Management
+* Android SDK
+
+🎯 Project Purpose
+This project demonstrates how to build an interactive quiz application using Kotlin and Jetpack Compose, while practicing local JSON data handling, state management, user interactions, conditional logic, score calculation, and dynamic UI rendering.
